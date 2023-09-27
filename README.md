@@ -1,1 +1,1 @@
-#I Decision Tree Algorihm to predict the diabetes disease in the patient.
+#I Use Decision Tree Algorihm to predict the diabetes disease in the patient.
