@@ -1,1 +1,0 @@
-I Use Decision Tree Algorithm to Predict The Diabetes In a Patient. 
